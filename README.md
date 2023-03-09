@@ -53,3 +53,5 @@ However, as an MVP, I recommend a ready-to-use interface like [Adafruit IO](http
 ## Future integrations
 - ?
  
+### Disclaimer
+This repo contains a bunch of links to Adafruit. I'm in no way afiliated to them, but they are an amazing company that produces and documents components like no others that I've seen. Amazon and AlieExpress are always options, but they are hit-or-miss quality, and I see no particualt reason to futher strengthen them.
